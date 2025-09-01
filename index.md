@@ -12,7 +12,7 @@ title: Home
 </div>
 <div style="display: flex; gap: 16px; width: 100%; justify-content: center; margin-bottom: 16px;">
   <img src="https://i.imgur.com/1dJ1OBP.jpeg" alt="Image 4" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
-  <img src="https://i.imgur.com/IXzqnLU.jpeg" alt="Image 6" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/PdJFvo1.jpeg" alt="Image 6" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 <div style="display: flex; gap: 16px; width: 100%; justify-content: center; margin-bottom: 16px;">
   <img src="https://i.imgur.com/hMLhtQB.jpeg" alt="Image 7" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
@@ -20,7 +20,7 @@ title: Home
 </div>
 <div style="display: flex; gap: 16px; width: 100%; justify-content: center; margin-bottom: 16px;">
   <img src="https://i.imgur.com/opwI9zq.jpeg" alt="Image 9" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
-  <img src="https://i.imgur.com/PdJFvo1.jpeg" alt="Image 10" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/IXzqnLU.jpeg" alt="Image 10" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
 </div>
 <div style="display: flex; gap: 16px; width: 100%; justify-content: center; margin-bottom: 16px;">
   <img src="https://i.imgur.com/SjnTAi7.jpeg" alt="Image 11" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
@@ -34,6 +34,4 @@ title: Home
   <img src="https://i.imgur.com/HS5C4fs.jpeg" alt="Image 15" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
   <img src="https://i.imgur.com/8ByxhgP.jpeg" alt="Image 16" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
 </div>
-<div style="display: flex; gap: 16px; width: 100%; justify-content: center;">
-  <img src="https://i.imgur.com/rDZ1yEM.jpeg" alt="Image 17" style="max-width: 802px; width: 100%; height: auto; border-radius: 8px;">
-</div>
+
