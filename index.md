@@ -5,12 +5,12 @@ title: Home
 
 # AJ-Media
 
-![Image 1](https://i.imgur.com/T3wMjlx.jpeg)
-
-![Image 2](https://i.imgur.com/O2VWdM6.jpeg)
-![Image 3](https://i.imgur.com/shKsPuI.jpeg)
-
-![Image 4](https://i.imgur.com/1dJ1OBP.jpeg)
-![Image 5](https://i.imgur.com/PdJFvo1.jpeg)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="https://i.imgur.com/T3wMjlx.jpeg" alt="Image 1" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/O2VWdM6.jpeg" alt="Image 2" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/shKsPuI.jpeg" alt="Image 3" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/1dJ1OBP.jpeg" alt="Image 4" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://i.imgur.com/PdJFvo1.jpeg" alt="Image 5" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px;">
+</div>
 
 
