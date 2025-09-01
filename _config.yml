@@ -1,0 +1,18 @@
+# Site settings
+title: "AJ-Media | Your Vision, Our Expertise"
+email: "info@aj-media.net"
+description: >
+  AJ-Media provides high-quality video production, photography, and
+  digital marketing services to bring your vision to life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+permalink: "/:title/"
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
