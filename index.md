@@ -1,29 +1,16 @@
-<section>
-  <div>
-    <h1>AJ-Media</h1>
-  </div>
-</section>
+---
+layout: default
+title: Home
+---
 
-<section>
-  <div>
-    <img src="https://i.imgur.com/T3wMjlx.jpeg" alt="">
-  </div>
-</section>
+# AJ-Media
 
-<section>
-  <div>
-    <img src="https://i.imgur.com/O2VWdM6.jpeg" alt="">
-    <!-- Add any content you want in the center here -->
-    <img src="https://i.imgur.com/shKsPuI.jpeg" alt="">
-  </div>
-</section>
+![Image 1](https://i.imgur.com/T3wMjlx.jpeg)
 
-<section>
-  <div>
-    <img src="https://i.imgur.com/1dJ1OBP.jpeg" alt="">
-    <!-- Add any content you want in the center here -->
-    <img src="https://i.imgur.com/PdJFvo1.jpeg" alt="">
-  </div>
-</section>
+![Image 2](https://i.imgur.com/O2VWdM6.jpeg)
+![Image 3](https://i.imgur.com/shKsPuI.jpeg)
+
+![Image 4](https://i.imgur.com/1dJ1OBP.jpeg)
+![Image 5](https://i.imgur.com/PdJFvo1.jpeg)
 
 
